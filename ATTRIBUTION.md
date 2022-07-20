@@ -54,9 +54,10 @@ Mods Created:
 ## shedaniel
 GitHub: [shedaniel](https://github.com/shedaniel)
 
-Mods Created:
+Mods/Libraries Created:
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Auto Config Updated API](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
+- [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 
 ## deirn
 GitHub: [deirn](https://github.com/deirn)
@@ -270,6 +271,12 @@ GitHub: [lucaargolo](https://github.com/lucaargolo)
 Mods Created:
 - [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)
 
+## RakSrinaNa
+GitHub: [RakSrinaNa](https://github.com/RakSrinaNa)
+
+Mods Created:
+- [Falling Tree](https://modrinth.com/mod/fallingtree)
+
 ## Zifiv
 GitHub: [Zifiv](https://github.com/Zifiv)
 
@@ -315,12 +322,6 @@ GitHub: [coderbot](https://github.com/coderbot16)
 
 Mods Created:
 - [Iris Shaders](https://modrinth.com/mod/iris)
-
-## mezz
-GitHub: [mezz](https://github.com/mezz)
-
-Mods Created:
-- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 ## mysticdrew
 GitHub: [mysticdrew](https://github.com/mysticdrew)
@@ -422,6 +423,7 @@ Mods Created:
 GitHub: [Siphalor](https://github.com/JackFSiphalorred2)
 
 Mods Created:
+- [Amecs](https://modrinth.com/mod/amecs)
 - [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 
 ## Noaaan
@@ -495,6 +497,12 @@ GitHub: [yurisuika](https://github.com/yurisuika)
 
 Mods Created:
 - [Raised](https://modrinth.com/mod/raised)
+
+## stuin
+GitHub: [stuin](https://github.com/stuin)
+
+Mods Created:
+- [Roughly Searchable](https://modrinth.com/mod/roughly-searchable)
 
 ## Lunade_
 GitHub: [AViewFromTheTop](https://github.com/AViewFromTheTop)
