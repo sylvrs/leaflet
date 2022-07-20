@@ -1,4 +1,4 @@
-<img src="resources/banner.png" width="500px" align="center"/>
+<img src="resources/banner.png" width="750px" align="center"/>
 
 ## what is it?
 
