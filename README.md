@@ -1,4 +1,5 @@
-<img src="resources/banner.png" width="1500px" height="500px"/>
+<img src="resources/banner.png" width="500px"/>
+
 ## what is it?
 
 Leaflet is a Fabric modpack created as a way to implement a modded experience while also being friendly towards a player's FPS.
