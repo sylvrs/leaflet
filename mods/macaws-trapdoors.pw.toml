@@ -1,0 +1,13 @@
+name = "Macaw's Trapdoors"
+filename = "mcw-trapdoors-1.0.6fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "803070e23b48a39b83471b64afbbd46d8bfe08ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3851701
+project-id = 400933

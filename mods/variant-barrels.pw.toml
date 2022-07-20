@@ -1,0 +1,13 @@
+name = "Variant Barrels"
+filename = "variantbarrels-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2RjLvnHQ/versions/v1.4/variantbarrels-1.4.0.jar"
+hash-format = "sha1"
+hash = "6a20101a63ea008ab06252cbb1ae4213e4c63f77"
+
+[update]
+[update.modrinth]
+mod-id = "2RjLvnHQ"
+version = "Zq9R8ctY"
