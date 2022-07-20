@@ -1,12 +1,12 @@
 <img src="resources/banner.png" width="750px" align="center"/>
 
-## what is it?
+# what is it?
 
 Leaflet is a Fabric modpack created as a way to implement a modded experience while also being friendly towards a player's FPS.
 
 This modpack uses mods from both CurseForge and Modrinth and merges them together using [packwiz](https://github.com/packwiz/packwiz).
 
-## what mods are included?
+# what mods are included?
 The list of mods includes but is not limited to:
 
 - 3D Skin Layers
