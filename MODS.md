@@ -5,6 +5,7 @@
 - Advancements Debug
 - Applied Energistics 2
 - Alloy Forgery
+- Amecs
 - Animatica
 - AppleSkin
 - Applied Energistics 2 Wireless Terminals
@@ -46,6 +47,7 @@
 - Fabricated Chisel
 - Fabric Language Kotlin
 - Fabric Seasons
+- Falling Tree
 - Farmer's Delight [Fabric]
 - FerriteCore
 - Forge Config API Port [Fabric]
@@ -54,7 +56,6 @@
 - Immersive Portals
 - Indium
 - Iris Shaders
-- Just Enough Items (JEI)
 - JourneyMap
 - Krypton
 - LambDynamicLights
@@ -92,6 +93,8 @@
 - Puzzles Lib [Fabric]
 - Raised
 - Reese's Sodium Options
+- Roughly Enough Items
+- Roughly Searchable
 - Simple Copper Pipes
 - SleepWarp
 - Sodium Extra
@@ -100,7 +103,6 @@
 - Starlight (Fabric)
 - Stendhal
 - TerraBlender (Fabric)
-- Timber Mod by MYCF [FABRIC] (1.19)
 - Traverse
 - 🪵 Twigs
 - Variant Barrels
