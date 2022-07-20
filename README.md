@@ -9,9 +9,9 @@ leaflet is a Fabric modpack created as a way to implement a modded experience wh
 This modpack uses mods from both CurseForge and Modrinth and merges them together using [packwiz](https://github.com/packwiz/packwiz).
 
 ## what mods are included?
-A list of all mods/libraries used in this modpack is available [here](MODS.md)
+A list of all mods/libraries used in this modpack is available [here](MODS.md).
 
-## faq
+## faq:
 
 ### can i request a mod?
 Yes! I would love to add more mods that are compatible and fit within the style of this modpack!

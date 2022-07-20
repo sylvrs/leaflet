@@ -1,5 +1,4 @@
-Current Mod List:
-
+## Current Mod List:
 - 3D Skin Layers
 - Additional Additions
 - Advanced Netherite
