@@ -1,4 +1,5 @@
-A special thanks goes out to these mod/library creators for their work:
+# Attribution
+A special thanks to all of the mod/library creators that made this modpack available!
 
 ## tr7zw
 GitHub: [tr7zw](https://github.com/tr7zw)

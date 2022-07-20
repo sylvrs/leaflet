@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ATTRIBUTION.md"
-hash = "97d2a654dd61fdd6a3cee310fd30be29cd38cb2db84c7bfbeb414eaae92c599c"
-
-[[files]]
-file = "MODS.md"
-hash = "9350392fa16148411c9c51d2a0c75f6e091dde454e34b3d915747e66820ae143"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
