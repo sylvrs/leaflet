@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ATTRIBUTION.md"
+hash = "97d2a654dd61fdd6a3cee310fd30be29cd38cb2db84c7bfbeb414eaae92c599c"
+
+[[files]]
+file = "MODS.md"
+hash = "9350392fa16148411c9c51d2a0c75f6e091dde454e34b3d915747e66820ae143"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
@@ -131,11 +139,6 @@ hash = "3d92bb395633472dac89164cdb9c1509182d27441e652d7fecd78bc9ed6efe4c"
 metafile = true
 
 [[files]]
-file = "mods/companion-fabric.pw.toml"
-hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
 metafile = true
@@ -168,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
-metafile = true
-
-[[files]]
-file = "mods/dual-riders.pw.toml"
-hash = "0d70cb6c1c7185420ba64a968ac757512457cdc272fdf586abf5adf3842e8e6e"
 metafile = true
 
 [[files]]
@@ -312,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
-metafile = true
-
-[[files]]
-file = "mods/lib.pw.toml"
-hash = "440c3684ef8e18e0787e29db7884acc50f5b02605525d50e9a83b6ea6af8cae6"
 metafile = true
 
 [[files]]
@@ -477,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "389f2d01e0f3417395d0ff8c9c7b267c8c0b1f2d67cb583a450a637bec8f3239"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
 metafile = true
 
 [[files]]

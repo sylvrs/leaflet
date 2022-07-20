@@ -1,12 +1,12 @@
 name = "leaflet"
 author = "sylvrs"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98a168cb87f6cd7843815c5cebbda32c5047025f9f3a4ad2d36b068fdfa8ad6d"
+hash = "91c53a9f053b2db65254dd3d63ebe213ef42cc00df7ee9927d7641d1814e5930"
 
 [versions]
 fabric = "0.14.8"

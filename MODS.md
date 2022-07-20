@@ -1,0 +1,110 @@
+Current Mod List:
+
+- 3D Skin Layers
+- Additional Additions
+- Advanced Netherite
+- Advancements Debug
+- Applied Energistics 2
+- Alloy Forgery
+- Animatica
+- AppleSkin
+- Applied Energistics 2 Wireless Terminals
+- Architectury API
+- Auto Config Updated API
+- bad packets
+- BCLib
+- Beacon Overhaul
+- Bee Buddies
+- BetterF3
+- Bits And Chisels
+- Boat Item View
+- BoatHud
+- Borderless Mining
+- Better Recipe Book
+- Concurrent Chunk Management Engine (Fabric)
+- Campanion
+- Capes
+- Carrier
+- Charm
+- Continuity
+- Creatures From The Warmths! [Fabric]
+- Culinaire
+- DashLoader
+- Dawn API
+- DeathLog
+- Debugify
+- 'Dustrial Decor Fabric
+- Dynamic FPS
+- Earthbounds
+- Eating Animation [Fabric]
+- Enhanced Block Entities
+- Eden Ring
+- Enderscape
+- Enriched
+- EntityCulling
+- Expanded Delight
+- Fabric API
+- Fabricated Chisel
+- Fabric Language Kotlin
+- Fabric Seasons
+- Farmer's Delight [Fabric]
+- FerriteCore
+- Forge Config API Port [Fabric]
+- Friends&Foes (Fabric)
+- GeckoLib
+- Immersive Portals
+- Indium
+- Iris Shaders
+- Just Enough Items (JEI)
+- JourneyMap
+- Krypton
+- LambDynamicLights
+- LazyDFU
+- Lithium
+- Lovely Snails
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Memory Leak Fix
+- MidnightControls
+- Mo' Structures
+- Mod Manager
+- Mod Menu
+- More Axolotls
+- MoreChatHistory
+- More Culling
+- Mouse Wheelie
+- Mythic Metals
+- NiceMod - New blocks
+- Not Enough Animations
+- Not Enough Crashes
+- Oh The Biomes You'll Go Refabricated
+- oωo (owo-lib)
+- Patchouli
+- Pettable
+- PingList
+- Plushie Mod
+- Polaroid Camera
+- Probably Chests
+- Purpeille
+- Puzzles Lib [Fabric]
+- Raised
+- Reese's Sodium Options
+- Simple Copper Pipes
+- SleepWarp
+- Sodium Extra
+- Sodium
+- spark
+- Starlight (Fabric)
+- Stendhal
+- TerraBlender (Fabric)
+- Timber Mod by MYCF [FABRIC] (1.19)
+- Traverse
+- 🪵 Twigs
+- Variant Barrels
+- Visual Workbench [Fabric]
+- WTHIT
+- You're in Grave Danger

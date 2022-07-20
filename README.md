@@ -9,79 +9,20 @@ leaflet is a Fabric modpack created as a way to implement a modded experience wh
 This modpack uses mods from both CurseForge and Modrinth and merges them together using [packwiz](https://github.com/packwiz/packwiz).
 
 ## what mods are included?
-The list of mods includes but is not limited to:
+A list of all mods/libraries used in this modpack is available [here](MODS.md)
 
-- 3D Skin Layers
-- Additional Additions
-- Advanced Netherite
-- Advancements Debug
-- Applied Energistics 2 (w/ Wireless Terminals)
-- Alloy Forgery
-- AppleSkin
-- Beacon Overhaul
-- Bee Buddies
-- Better F3
-- Bits And Chisels
-- Boat Item View
-- Boat Hud
-- Borderless Mining
-- Better Recipe Book
-- Campanion
-- Capes
-- Charm
-- Continuity
-- Culinaire
-- DeathLog
-- Debugify
-- 'Dustrial Decor
-- Dynamic FPS
-- Earthbounds
-- Enderscape
-- Enriched
-- Expanded Delight
-- Fabricated Chisel
-- Fabric Seasons
-- Friends & Foes
-- Immersive Portals
-- JourneyMap
-- Midnight Controls
-- Mo' Structures
-- Mouse Wheelie
-- Mythic Metals
-- NiceMod
-- Not Enough Crashes
-- Pettable
-- PingList
-- Polaroid Camera
-- Purpeille
-- Raised
-- Simple Copper Pipes
-- Sleep Warp
-- Stendhal
-- Traverse
-- Twigs
-- Variant Barrels
-- WTHIT
-- You're in Grave Danger
-- Carrier
-- Companion
-- Dual Riders
-- Eden Ring
-- Farmer's Delight
-- Just Enough Items
-- Lovely Snails
-- Macaw's Doors
-- Macaw's Fences & Walls
-- Macaw's Lights & Lamps
-- Macaw's Paintings
-- Macaw's Roofs
-- Macaw's Trapdoors
-- More Axoltls
-- Oh The Biomes You'll Go
-- Plushie Mod
-- Probably Chests
-- Timber
-- Visual Workbench
+## faq
+
+### can i request a mod?
+Yes! I would love to add more mods that are compatible and fit within the style of this modpack!
+
+### will this modpack ever be published on Modrinth?
+While I would like to publish this modpack on the platform, restrictions with mod licenses prevent me from doing so.
+That being said, the Modrinth pack is available for download in all releases.
+
+## attribution
+Attribution for all mods and libraries used can be found [here](ATTRIBUTION.md).
+
 
 ## licensing
 This modpack is licensed under the [MIT license](https://opensource.org/licenses/MIT).
