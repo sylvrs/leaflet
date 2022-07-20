@@ -1,4 +1,4 @@
-<img src="resources/banner.png" width="1500" height="500">
+![leaflet logo](resources/banner.png)
 
 ## what is it?
 
