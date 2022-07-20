@@ -1,4 +1,5 @@
 # leaflet
+![leaflet logo](leaflet.png)
 
 ## what is it?
 
@@ -8,6 +9,7 @@ This modpack uses mods from both CurseForge and Modrinth and merges them togethe
 
 ## what mods are included?
 The list of mods includes but is not limited to:
+
 - 3D Skin Layers
 - Additional Additions
 - Advanced Netherite
