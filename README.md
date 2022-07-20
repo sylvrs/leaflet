@@ -1,4 +1,4 @@
-![leaflet logo](resources/banner.png)
+![leaflet logo|max-height=1000](resources/banner.png)
 
 ## what is it?
 
