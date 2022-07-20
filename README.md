@@ -1,5 +1,5 @@
 # leaflet
-![leaflet logo](leaflet.png)
+<img src="leaflet.png" width="300" height="300">
 
 ## what is it?
 
