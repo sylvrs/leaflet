@@ -480,11 +480,6 @@ hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
 
 [[files]]
-file = "mods/roughly-searchable.pw.toml"
-hash = "a6d9fda899f7e2d4eb9457e538e09b44791857871d205f511738c7dcc4d1dcdb"
-metafile = true
-
-[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "92dc874a7927672556ad3d33783c44d9f7a51be5b56d08801c02c7c22ca488f5"
 metafile = true

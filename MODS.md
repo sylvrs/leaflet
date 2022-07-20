@@ -94,7 +94,6 @@
 - Raised
 - Reese's Sodium Options
 - Roughly Enough Items
-- Roughly Searchable
 - Simple Copper Pipes
 - SleepWarp
 - Sodium Extra

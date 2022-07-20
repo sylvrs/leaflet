@@ -498,12 +498,6 @@ GitHub: [yurisuika](https://github.com/yurisuika)
 Mods Created:
 - [Raised](https://modrinth.com/mod/raised)
 
-## stuin
-GitHub: [stuin](https://github.com/stuin)
-
-Mods Created:
-- [Roughly Searchable](https://modrinth.com/mod/roughly-searchable)
-
 ## Lunade_
 GitHub: [AViewFromTheTop](https://github.com/AViewFromTheTop)
 
